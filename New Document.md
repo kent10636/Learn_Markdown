@@ -95,3 +95,6 @@ public classvoid Hello
 
 ***
 分割线的语法只需要三个 * 号
+
+* [x] 这是复选框
+- [x] 这是复选框 
