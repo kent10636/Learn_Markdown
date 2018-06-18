@@ -56,11 +56,11 @@
 用两个 * 包含一段文本就是粗体的语法，  
 用一个 * 包含一段文本就是斜体的语法。
 
-Name | Academy | score 
- - | :-: | -: 
-Harry Potter | Gryffindor | 90 
+Name             | Academy    | score 
+--               | :-:        | -: 
+Harry Potter     | Gryffindor | 90 
 Hermione Granger | Gryffindor | 100 
-Draco Malfoy | Slytherin | 90
+Draco Malfoy     | Slytherin  | 90
 
 语法说明：  
 1. 第一行为表头，第二行分隔表头和主体部分，第三行开始每一行代表一个表格行；  
