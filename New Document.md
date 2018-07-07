@@ -99,3 +99,5 @@ public classvoid Hello
 * [x] 这是复选框
 - [x] 这是复选框
 - [ ] 这是复选框
+
+~~这是删除线~~
